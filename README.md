@@ -1,12 +1,15 @@
 # Project04-Platformer
 
-# Project Name
-Context and date
-
-Description
+# Wow! A Game
+2D Platform Game
 
 ## Implementation
-Which features you included.
+Music and sound effects
+Multiple levels
+Parallax backgrounds 
+Juicy features 
+Elaborate levels
+Start and End
 
 ## References
 
@@ -15,5 +18,6 @@ https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
 https://github.com/SebLague/2DPlatformer-Tutorial
 
 ## Future Development
+Bigger, more time consuming levels.
 
 ## Created by
